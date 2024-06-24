@@ -1,10 +1,65 @@
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<title>Politicas de privacidad</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+    </style>
 </head>
 <body>
-<span style="font-family: &quot;roboto&quot;;"><span style="color: #cc0000;"><b>POLÍTICA DE PRIVACIDAD</b></span></span><br />
-<br style="font-family: Roboto;" />
-<span style="font-size: large;"><span style="font-family: &quot;roboto&quot;;">·&nbsp;La app no recoge ningún dato de caracter personal del usuario como, por ejemplo, nombre, fotografías o localización.</span><br style="font-family: Roboto;" /><br style="font-family: Roboto;" /><span style="font-family: &quot;roboto&quot;;">·&nbsp;En consecuencia la app no comparte ningún dato personal con ninguna otra entidad o terceras personas.</span><br style="font-family: Roboto;" /><br style="font-family: Roboto;" /><span style="font-family: &quot;roboto&quot;;">·&nbsp;Permitimos que terceras compañías publiquen anuncios y recopilen cierta información anónima cuando visite nuestra aplicación. Estas empresas pueden utilizar información anónima, como su ID de publicidad de Google, el tipo y la versión de su dispositivo, la actividad de navegación, la ubicación y otros datos técnicos relacionados con su dispositivo, a fin de proporcionar anuncios.</span></span>
+    <h1>Política de Privacidad</h1>
+    <p>En <strong>ppssnx</strong>, respetamos su privacidad y nos comprometemos a proteger la información personal que pueda proporcionar a través de nuestra aplicación <strong>FreedomVPN</strong>. Esta Política de Privacidad explica nuestras prácticas de recopilación, uso y divulgación de datos. Al utilizar nuestra aplicación, acepta las prácticas descritas en esta Política de Privacidad.</p>
+
+    <h2>1. Recopilación de Datos</h2>
+    <p>Nuestra aplicación no recopila ningún dato personal de los usuarios, como nombre, fotografías o ubicación. Sin embargo, terceros pueden recopilar ciertos datos anónimos como se describe a continuación.</p>
+
+    <h2>2. Datos Recopilados por Terceros</h2>
+    <p>Permitimos que terceras compañías publiquen anuncios y recopilen cierta información anónima cuando usted utiliza nuestra aplicación. Estas compañías pueden usar información no identificable personalmente, como:</p>
+    <ul>
+        <li>Su ID de publicidad de Google</li>
+        <li>El tipo y la versión de su dispositivo</li>
+        <li>La actividad de navegación</li>
+        <li>La ubicación geográfica aproximada</li>
+        <li>Otros datos técnicos relacionados con su dispositivo</li>
+    </ul>
+    <p>Estas compañías utilizan esta información para ofrecer anuncios relevantes y para analizar y mejorar sus servicios publicitarios.</p>
+
+    <h2>3. Uso de los Datos</h2>
+    <p>La información recopilada por terceros se utiliza para:</p>
+    <ul>
+        <li>Personalizar los anuncios que ve en nuestra aplicación</li>
+        <li>Analizar el rendimiento de la publicidad</li>
+        <li>Mejorar los servicios publicitarios</li>
+    </ul>
+
+    <h2>4. Compartir Datos</h2>
+    <p>No compartimos datos personales con ninguna entidad o terceros. Los terceros que recopilan datos anónimos lo hacen de acuerdo con sus propias políticas de privacidad.</p>
+
+    <h2>5. Seguridad de los Datos</h2>
+    <p>Nos comprometemos a proteger la seguridad de sus datos. Utilizamos medidas de seguridad adecuadas para evitar el acceso no autorizado, la alteración, divulgación o destrucción de los datos recopilados.</p>
+
+    <h2>6. Retención de Datos</h2>
+    <p>No retenemos datos personales ya que no recopilamos dicha información. Los terceros que recopilan datos anónimos pueden tener sus propias políticas de retención de datos.</p>
+
+    <h2>7. Enlaces a Otros Sitios</h2>
+    <p>Nuestra aplicación puede contener enlaces a otros sitios que no son operados por nosotros. No tenemos control sobre el contenido y las prácticas de privacidad de esos sitios, y no podemos aceptar responsabilidad por sus respectivas políticas de privacidad.</p>
+
+    <h2>8. Cambios a Esta Política de Privacidad</h2>
+    <p>Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página. Se le recomienda revisar esta Política de Privacidad periódicamente para estar informado de cualquier cambio.</p>
+
+    <h2>9. Contacto</h2>
+    <p>Si tiene alguna pregunta sobre esta Política de Privacidad, por favor, póngase en contacto con nosotros en <strong>emsanje2022@gmail.com</strong>.</p>
 </body>
 </html>
